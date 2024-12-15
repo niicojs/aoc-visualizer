@@ -1,0 +1,11 @@
+{
+  "name": "aoc-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "type": "module",
+  "dependencies": {
+    "cfonts": "^3.3.0",
+    "terminal-kit": "^3.1.1"
+  }
+}
